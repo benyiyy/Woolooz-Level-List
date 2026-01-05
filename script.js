@@ -1,5 +1,5 @@
 const levels = [
-    { name: "Crimson Blood", creator: "Player1", verifier: "You", diff: "Extreme Demon" },
+    { name: "Silent Mav Challenge", creator: "Woolooz", verifier: "Woolooz", diff: "Extreme Demon" },
     { name: "Void Collapse", creator: "Player2", verifier: "ProGamer", diff: "Insane Demon" },
     { name: "Shadow Rift", creator: "Player3", verifier: "Speedrun", diff: "Hard Demon" }
 ];
